@@ -1,0 +1,16 @@
+﻿Capability,Subset,n,Explicit Yes,Explicit %,Interpretation
+Provenance,Full core,39,6,0.15384615384615385,Directional descriptive sensitivity; report raw fraction first.
+Provenance,Non-benchmark,31,6,0.1935483870967742,Directional descriptive sensitivity; report raw fraction first.
+Provenance,Peer-reviewed only,9,1,0.1111111111111111,Directional descriptive sensitivity; report raw fraction first.
+Source attribution,Full core,39,8,0.20512820512820512,Directional descriptive sensitivity; report raw fraction first.
+Source attribution,Non-benchmark,31,7,0.22580645161290322,Directional descriptive sensitivity; report raw fraction first.
+Source attribution,Peer-reviewed only,9,1,0.1111111111111111,Directional descriptive sensitivity; report raw fraction first.
+Causal reconstruction,Full core,39,9,0.23076923076923078,Directional descriptive sensitivity; report raw fraction first.
+Causal reconstruction,Non-benchmark,31,7,0.22580645161290322,Directional descriptive sensitivity; report raw fraction first.
+Causal reconstruction,Peer-reviewed only,9,1,0.1111111111111111,Directional descriptive sensitivity; report raw fraction first.
+Blast-radius support,Full core,39,7,0.1794871794871795,Directional descriptive sensitivity; report raw fraction first.
+Blast-radius support,Non-benchmark,31,6,0.1935483870967742,Directional descriptive sensitivity; report raw fraction first.
+Blast-radius support,Peer-reviewed only,9,1,0.1111111111111111,Directional descriptive sensitivity; report raw fraction first.
+Recovery support,Full core,39,7,0.1794871794871795,Directional descriptive sensitivity; report raw fraction first.
+Recovery support,Non-benchmark,31,5,0.16129032258064516,Directional descriptive sensitivity; report raw fraction first.
+Recovery support,Peer-reviewed only,9,1,0.1111111111111111,Directional descriptive sensitivity; report raw fraction first.

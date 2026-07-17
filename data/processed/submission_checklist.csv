@@ -1,0 +1,12 @@
+﻿Task,Status,Owner,Evidence / sheet,Required output,Risk if incomplete,Notes
+Verify final bibliographic metadata for all 39 core studies,In progress,,Core Studies,"Correct authors, venue, DOI/arXiv version",Citation errors / reviewer distrust,Prioritise 2026 preprints and venue claims.
+Verify exact quantitative results used in text,Not started,,Core Studies; Attack Matrix; Defence & Systems,Table/page-level verified metrics,Unsupported numerical claims,Focus on values marked 'verify'.
+Freeze inclusion boundary and final core count,Complete,,Core Studies,Final n and category counts,Inconsistent abstract/methodology,Current working n = 39.
+Write corpus-construction methodology,Not started,,README; Writing Map,Transparent bounded-corpus method,Methodological criticism,Do not claim exhaustive PRISMA search.
+Complete attack synthesis table,Complete,,Attack Matrix,Publication-ready table,Weak evidence synthesis,Condense for manuscript.
+Complete defence forensic-value table,Complete,,Defence & Systems,Publication-ready table,Paper reads as conceptual only,Add study-level citations.
+Complete benchmark gap table,Complete,,Benchmarks,Publication-ready table,Benchmark-gap claim unsubstantiated,Verify full-chain absence.
+Update related-survey comparison,Complete,,Related Surveys,Novelty table,Overlap criticism,Keep three closest surveys prominent.
+Calculate final capability percentages,Not started,,Dashboard,Corpus-derived novelty findings,Qualitative overclaiming,Use explicit Yes counts and discuss Partial separately.
+Add supplementary full evidence table,Complete,,Core Studies,Supplementary XLSX/CSV,Low reproducibility,This workbook can serve as supplement after cleaning identifiers.
+Final reference and citation consistency check,Not started,,All sheets / manuscript,No missing or uncited references,Editorial rejection,Run after manuscript revision.

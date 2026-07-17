@@ -1,0 +1,61 @@
+├── .github
+  ├── workflows
+    └── validate.yml
+├── .gitignore
+├── CITATION.cff
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── MANIFEST.csv
+├── README.md
+├── analysis
+  ├── derived_summary.json
+├── checksums.sha256
+├── data
+  ├── README.md
+  ├── processed
+    ├── adjacent_literature.csv
+    ├── attack_matrix.csv
+    ├── benchmarks.csv
+    ├── core_studies.csv
+    ├── defence_and_systems.csv
+    ├── related_surveys.csv
+    ├── reviewer_value_notes.csv
+    ├── submission_checklist.csv
+    ├── writing_map.csv
+  ├── source
+    ├── clean_evidence_workbook.xlsx
+    ├── cumulative_screening_database.xlsx
+    ├── literature_corpus.csv
+    ├── pdf_intake.csv
+    ├── quarantine_unverified.csv
+    ├── screening_tracker.csv
+    ├── search_log.csv
+  ├── supplementary
+    ├── appendix_a_core_census.csv
+    ├── attack_distribution.csv
+    ├── benchmark_symbols.csv
+    ├── capability_by_role.csv
+    ├── capability_overall.csv
+    ├── capability_subset_sensitivity.csv
+    ├── meirc_retrospective_provisional.csv
+    ├── recoding_thresholds.csv
+    ├── reviewer_table_values_workbook.xlsx
+    ├── survey_coverage_scores.csv
+├── docs
+  ├── CHANGELOG.md
+  ├── CODEBOOK.md
+  ├── DATA_DICTIONARY.md
+  ├── DEPOSIT_READINESS.md
+  ├── LIMITATIONS.md
+  ├── METHODS.md
+  ├── REPRODUCIBILITY.md
+  ├── THIRD_PARTY_MATERIALS.md
+├── metadata
+  ├── zenodo.json
+├── requirements.txt
+├── scripts
+  ├── validate_counts.py
+├── search
+  ├── EXAMPLE_QUERY.txt
+  ├── SEARCH_FAMILIES.md
+  ├── SEARCH_LOG_GUIDANCE.md

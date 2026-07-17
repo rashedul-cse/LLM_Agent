@@ -1,0 +1,9 @@
+﻿ID,Benchmark,Persistent memory,Attack/failure GT,Privacy,Provenance GT,Retrieval trace,Memory→action GT,Multi-agent/principal,Temporal persistence,Forgetting/recovery
+19,From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisonin...,●,●,△,△,●,△,○,●,○
+59,Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents,●,△,○,○,●,●,○,△,○
+60,GATEMEM: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents,●,●,△,△,△,△,●,△,●
+61,CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs,●,●,●,△,●,△,○,△,○
+62,PersistBench: When Should Long-Term Memories Be Forgotten by LLMs?,●,●,●,△,●,△,○,●,●
+65,Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-Based Agents,●,●,△,○,△,△,△,△,○
+66,MemSyco-Bench: Benchmarking Sycophancy in Agent Memory,●,△,○,○,●,●,○,△,○
+67,AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks,●,●,△,△,●,△,△,●,○

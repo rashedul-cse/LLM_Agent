@@ -1,0 +1,25 @@
+{
+  "title": "Evidence Repository for Forensic Readiness of Persistent-Memory LLM Agents",
+  "upload_type": "dataset",
+  "publication_date": "2026-07-17",
+  "creators": [
+    {
+      "name": "Islam, Md Rashedul",
+      "affiliation": "School of Information Technology, Deakin University"
+    }
+  ],
+  "description": "Study-selection records, coding matrices, supplementary tables, and reproducibility checks supporting a structured scoping survey and systematisation of knowledge on persistent-memory LLM-agent forensic readiness.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "LLM agents",
+    "persistent memory",
+    "memory poisoning",
+    "digital forensics",
+    "provenance",
+    "incident reconstruction",
+    "recovery"
+  ],
+  "version": "1.0.0-rc1",
+  "notes": "The repository does not redistribute reviewed paper PDFs. Independent second-coder agreement is not included in this release candidate."
+}

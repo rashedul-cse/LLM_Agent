@@ -1,0 +1,85 @@
+{
+  "repository_version": "1.0.0-rc1",
+  "core_n": 39,
+  "unique_ids": 39,
+  "roles": {
+    "Attack/failure": 19,
+    "Benchmark": 8,
+    "Defence/system": 12
+  },
+  "publication_status": {
+    "Peer-reviewed": 8,
+    "Preprint": 30,
+    "Peer-reviewed workshop": 1
+  },
+  "capabilities": {
+    "Provenance": {
+      "No": 20,
+      "Partial": 13,
+      "Yes": 6
+    },
+    "Source attribution": {
+      "Partial": 28,
+      "No": 3,
+      "Yes": 8
+    },
+    "Causal reconstruction": {
+      "Partial": 26,
+      "Yes": 9,
+      "No": 4
+    },
+    "Blast-radius support": {
+      "No": 16,
+      "Partial": 16,
+      "Yes": 7
+    },
+    "Recovery support": {
+      "No": 21,
+      "Partial": 11,
+      "Yes": 7
+    }
+  },
+  "yes_by_role": {
+    "Provenance": {
+      "Attack/failure": 0,
+      "Defence/system": 6,
+      "Benchmark": 0
+    },
+    "Source attribution": {
+      "Attack/failure": 0,
+      "Defence/system": 7,
+      "Benchmark": 1
+    },
+    "Causal reconstruction": {
+      "Attack/failure": 6,
+      "Defence/system": 1,
+      "Benchmark": 2
+    },
+    "Blast-radius support": {
+      "Attack/failure": 2,
+      "Defence/system": 4,
+      "Benchmark": 1
+    },
+    "Recovery support": {
+      "Attack/failure": 0,
+      "Defence/system": 5,
+      "Benchmark": 2
+    }
+  },
+  "nonbenchmark_yes": {
+    "Provenance": 6,
+    "Source attribution": 7,
+    "Causal reconstruction": 7,
+    "Blast-radius support": 6,
+    "Recovery support": 5
+  },
+  "peer_plus_workshop_yes": {
+    "Provenance": 1,
+    "Source attribution": 1,
+    "Causal reconstruction": 1,
+    "Blast-radius support": 1,
+    "Recovery support": 1
+  },
+  "validation_passed": true,
+  "errors": []
+}

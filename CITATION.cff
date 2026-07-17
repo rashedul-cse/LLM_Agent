@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this evidence repository and the associated survey."
+title: "Evidence Repository for Forensic Readiness of Persistent-Memory LLM Agents"
+type: dataset
+authors:
+  - family-names: "Islam"
+    given-names: "Md Rashedul"
+affiliation: "School of Information Technology, Deakin University"
+version: "1.0.0-rc1"
+date-released: "2026-07-17"
+license: "CC-BY-4.0"
+keywords:
+  - "LLM agents"
+  - "persistent memory"
+  - "memory poisoning"
+  - "digital forensics"
+  - "provenance"
+  - "incident reconstruction"
+  - "recovery"
+abstract: >-
+  Study-selection records, coding matrices, supplementary tables, and
+  reproducibility checks supporting a structured scoping survey and
+  systematisation of knowledge on forensic readiness for persistent-memory
+  large language model agents.

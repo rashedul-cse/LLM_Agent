@@ -1,0 +1,6 @@
+﻿Capability,Attack/failure Yes (n=19),Defence/system Yes (n=12),Benchmark Yes (n=8),Full Yes (n=39),Arithmetic check
+Provenance,0,6,0,6,OK
+Source attribution,0,7,1,8,OK
+Causal reconstruction,6,1,2,9,OK
+Blast-radius support,2,4,1,7,OK
+Recovery support,0,5,2,7,OK
