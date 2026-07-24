@@ -1,0 +1,44 @@
+﻿ID,Study,Authors,Year,Publication status,Evidence role,Provenance,Attribution,Causal reconstruction,Blast radius,Recovery,DOI / arXiv / ID
+10,AgentPoison: Red-Teaming LLM Agents via Poisoning Memory or Knowledge Bases,Zhaorun Chen et al.,2024,Peer-reviewed,Attack/failure,No,Partial,Partial,No,No,2407.12784
+11,Memory Injection Attacks on LLM Agents via Query-Only Interaction,Shen Dong et al.,2025,Peer-reviewed,Attack/failure,No,Partial,Partial,No,No,2503.03704
+12,Unveiling Privacy Risks in LLM Agent Memory,Bo Wang et al.,2025,Peer-reviewed,Attack/failure,No,No,Partial,No,No,2502.13172
+13,"Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",Wei Zou et al.,2026,Preprint,Attack/failure,No,Partial,Partial,Partial,No,2604.02623
+14,InjecMEM: Memory Injection Attack on LLM Agent Memory Systems,Anonymous authors,2026,Preprint,Attack/failure,No,Partial,Partial,No,No,QVX6hcJ2um
+15,MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval,Saksham Sahai Srivastava and Haoyu He,2025,Preprint,Attack/failure,No,Partial,Partial,No,No,2512.16962
+16,From Storage to Steering: Memory Control Flow Attacks on LLM Agents,Zhenlin Xu et al.,2026,Preprint,Attack/failure,No,Partial,Yes,Partial,No,2603.15125
+17,Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration,Debeshee Das et al.,2026,Preprint,Attack/failure,No,Partial,Yes,Partial,Partial,2605.01970
+18,Hidden in Memory: Sleeper Memory Poisoning in LLM Agents,Sidharth Pulipaka et al.,2026,Preprint,Attack/failure,No,Partial,Yes,Partial,Partial,2605.15338
+19,From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisonin...,Pritam Dash et al.,2026,Peer-reviewed workshop,Benchmark,Partial,Partial,Partial,Partial,No,2606.04329
+20,MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning,Xuanye Zhang et al.,2026,Preprint,Attack/failure,No,Partial,Yes,Partial,No,2605.26154
+21,Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinfo...,Xianglin Yang et al.,2026,Preprint,Attack/failure,No,Partial,Yes,Partial,Partial,2602.15654
+22,No Attacker Needed: Unintentional Cross-User Contamination in Shared-State LL...,Tiankai Yang et al.,2026,Preprint,Attack/failure,Partial,Partial,Partial,Yes,Partial,2604.01350
+24,Visual Inception: Compromising Long-Term Planning in Agentic Recommenders via...,Jiachen Qian,2026,Preprint,Attack/failure,No,Partial,Yes,No,Partial,2604.16966
+26,Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents E...,Xiangming Gu et al.,2024,Peer-reviewed,Attack/failure,No,Partial,Partial,Yes,No,2402.08567
+29,What If Prompt Injection Never Left? Exploring Cross-Session Stored Prompt In...,Yuanbo Xie et al.,2026,Preprint,Attack/failure,Partial,Partial,Partial,Partial,Partial,2606.04425
+30,ER-MIA: Black-Box Adversarial Memory Injection Attacks on Long-Term Memory-Au...,Mitchell Piehl et al.,2026,Preprint,Attack/failure,No,Partial,Partial,No,No,2602.15344
+31,Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Intera...,Hongtao Wang et al.,2026,Preprint,Attack/failure,No,Partial,Partial,No,No,2605.29960
+32,ShadowMerge: A Novel Poisoning Attack on Graph-Based Agent Memory via Relatio...,Yang Luo et al.,2026,Preprint,Attack/failure,Partial,Partial,Partial,Partial,No,2605.09033
+33,MRMMIA: Membership Inference Attacks on Memory in Chat Agents,Kai Chen et al.,2026,Preprint,Attack/failure,No,No,No,No,No,2605.27825
+34,VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of A...,Thong Q. Nguyen et al.,2025,Preprint,Defence/system,Partial,Partial,Partial,No,Partial,2506.02539
+35,PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic ...,Renan Souza et al.,2025,Peer-reviewed,Defence/system,Yes,Yes,Partial,Partial,Partial,2508.02866
+36,MemOS: A Memory OS for AI System,Zhiyu Li et al.,2025,Preprint,Defence/system,Yes,Partial,No,Partial,Yes,2507.03724
+37,MemLineage: Lineage-Guided Enforcement for LLM Agent Memory,Ciyan Ouyang and Rui Hou,2026,Preprint,Defence/system,Yes,Yes,Partial,Yes,Yes,2605.14421
+38,"Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees",Yedidel Louck,2026,Preprint,Defence/system,Yes,Yes,Partial,Partial,Partial,2606.24322
+39,MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection,Zhewen Tan et al.,2026,Preprint,Defence/system,Partial,Yes,Yes,Partial,Partial,2605.23723
+40,Forensic Trajectory Signatures for Agent Memory Poisoning Detection,Jun Wen Leong,2026,Preprint,Defence/system,No,Yes,Partial,Partial,No,2606.30566
+42,A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory,Qianshan Wei et al.,2025,Preprint,Defence/system,Partial,Partial,Partial,No,Yes,2510.02373
+50,Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control,Alireza Rezazadeh et al.,2025,Preprint,Defence/system,Yes,Yes,No,Yes,Partial,2505.18279
+53,SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning,Varun Pratap Bhardwaj,2026,Preprint,Defence/system,Yes,Yes,Partial,Yes,Yes,2603.02240
+54,MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents,Ishrith Gowda,2026,Preprint,Defence/system,Partial,Partial,No,No,No,2605.03482
+55,Agentic Unlearning: When LLM Agent Meets Machine Unlearning,Bin Wang et al.,2026,Preprint,Defence/system,Partial,Partial,Partial,Yes,Yes,2602.17692
+59,Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents,Yiting Shen et al.,2026,Peer-reviewed,Benchmark,No,Partial,Yes,No,No,2601.19935
+60,GATEMEM: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents,Zhe Ren et al.,2026,Preprint,Benchmark,Partial,Yes,Partial,Yes,Yes,2606.18829
+61,CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs,Niloofar Mireshghallah et al.,2025,Preprint,Benchmark,Partial,Partial,Partial,Partial,No,2511.14937
+62,PersistBench: When Should Long-Term Memories Be Forgotten by LLMs?,Sidharth Pulipaka et al.,2026,Peer-reviewed,Benchmark,Partial,Partial,Partial,No,Yes,2602.01146
+65,Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-Based Agents,Hanrong Zhang et al.,2025,Peer-reviewed,Benchmark,No,No,Partial,No,No,2410.02644
+66,MemSyco-Bench: Benchmarking Sycophancy in Agent Memory,Zhishang Xiang et al.,2026,Preprint,Benchmark,No,Partial,Yes,No,No,2607.01071
+67,AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks,Tanqiu Jiang et al.,2026,Preprint,Benchmark,Partial,Partial,Partial,Partial,No,2602.16901
+68,State Contamination in Memory-Augmented LLM Agents,Yian Wang; Agam Goyal; Yuen Chen; Hari Sundaram,2026,Preprint,Attack/failure,Partial,Yes,Yes,Yes,Partial,2605.16746
+69,ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying,Xingyu Lyu; Jianfeng He; Ning Wang; Yidan Hu; Tao Li; Danjue Chen; Shixiong Li; Yimin Chen,2026,Preprint,Attack/failure,No,No,Partial,No,No,2604.09747
+70,Defense Effectiveness Across Architectural Layers: A Mechanistic Evaluation of Persistent Memory Attacks on Stateful LLM Agents,Jun Wen Leong,2026,Preprint,Defence/system,No,No,Partial,No,No,2605.08442
+71,Towards Security-Auditable LLM Agents: A Unified Graph Representation,Chaofan Li; Lyuye Zhang; Jintao Zhai; Siyue Feng; Xichun Yang; Huahao Wang; Shihan Dou; Yu Ji; Yutao Hu; Yueming Wu; Yang Liu; Deqing Zou,2026,Preprint,Defence/system,Yes,Yes,Yes,Yes,No,2605.06812

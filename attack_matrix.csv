@@ -1,0 +1,37 @@
+# Data Files
+
+## Source
+
+- `clean_evidence_workbook.xlsx` — manuscript-aligned 43-study evidence workbook.
+- `cumulative_screening_database.xlsx` — 86-record candidate map, screening tracker, extraction forms, and PDF-intake database.
+- `literature_corpus.csv` — 86 candidate records.
+- `screening_tracker.csv` — 86 record-level screening rows.
+- `search_log.csv` — database-native search records plus the terminology-robustness search.
+- `pdf_intake.csv` — 79 usable full texts and one incomplete intake record.
+- `quarantine_unverified.csv` — records not accepted as verified evidence.
+
+## Processed
+
+- `core_studies.csv` — 43 core studies.
+- `adjacent_literature.csv` — 36 adjacent/background sources.
+- `id_crosswalk.csv` — master candidate IDs 83–86 mapped to manuscript/core IDs 68–71.
+- `attack_matrix.csv` — 21 attack/failure studies.
+- `defence_and_systems.csv` — 14 defence/system studies.
+- `benchmarks.csv` — 8 benchmark studies.
+- `related_surveys.csv`
+- `writing_map.csv`
+- `submission_checklist.csv`
+- `reviewer_value_notes.csv`
+
+## Supplementary
+
+- `reviewer_table_values_workbook.xlsx`
+- `appendix_a_core_census.csv`
+- `capability_overall.csv`
+- `capability_by_role.csv`
+- `capability_subset_sensitivity.csv`
+- `recoding_thresholds.csv`
+- `attack_distribution.csv`
+- `meirc_retrospective_provisional.csv`
+- `benchmark_symbols.csv`
+- `survey_coverage_scores.csv`

@@ -1,0 +1,83 @@
+# Repository Validation Report
+
+**Repository version:** 1.0.0  
+**Validation date:** 25 July 2026  
+**Authoritative source:** Submitted Computer Science Review manuscript COSREV-D-26-01151  
+**Validation command:** `python scripts/validate_counts.py`
+
+## Outcome
+
+**PASS.** The machine-readable repository is internally consistent with the submitted manuscript's bounded-corpus flow, role totals, publication-status totals, forensic-capability coding, subset analyses, and identifier crosswalk.
+
+## Validated corpus totals
+
+| Check | Expected | Observed | Status |
+|---|---:|---:|---|
+| Candidate records | 86 | 86 | Pass |
+| Usable full texts | 79 | 79 | Pass |
+| Core primary studies | 43 | 43 | Pass |
+| Adjacent/background sources | 36 | 36 | Pass |
+| Candidates without usable full text | 7 | 7 | Pass |
+
+## Validated study roles
+
+| Role | Expected | Observed | Status |
+|---|---:|---:|---|
+| Attack/failure | 21 | 21 | Pass |
+| Defence/system | 14 | 14 | Pass |
+| Benchmark | 8 | 8 | Pass |
+
+## Validated publication status
+
+| Status | Expected | Observed | Status |
+|---|---:|---:|---|
+| Peer-reviewed | 8 | 8 | Pass |
+| Peer-reviewed workshop | 1 | 1 | Pass |
+| Preprint | 34 | 34 | Pass |
+
+## Validated forensic-capability coding
+
+| Capability | Yes | Partial | No | Status |
+|---|---:|---:|---:|---|
+| Provenance/lineage | 7 | 14 | 22 | Pass |
+| Source attribution | 10 | 28 | 5 | Pass |
+| Causal reconstruction | 11 | 28 | 4 | Pass |
+| Blast-radius analysis | 9 | 16 | 18 | Pass |
+| Recovery support | 7 | 12 | 24 | Pass |
+
+## Validated explicit support by role
+
+| Capability | Attack/failure | Defence/system | Benchmark | Full corpus |
+|---|---:|---:|---:|---:|
+| Provenance/lineage | 0 | 7 | 0 | 7 |
+| Source attribution | 1 | 8 | 1 | 10 |
+| Causal reconstruction | 7 | 2 | 2 | 11 |
+| Blast-radius analysis | 3 | 5 | 1 | 9 |
+| Recovery support | 0 | 5 | 2 | 7 |
+
+## Validated sensitivity subsets
+
+| Capability | Core excluding benchmarks (n=35) | Peer-reviewed core only (n=8) |
+|---|---:|---:|
+| Provenance/lineage | 7 | 1 |
+| Source attribution | 9 | 1 |
+| Causal reconstruction | 9 | 1 |
+| Blast-radius analysis | 8 | 1 |
+| Recovery support | 5 | 1 |
+
+## Terminology-robustness additions
+
+The repository includes the four records added after the final terminology-robustness search:
+
+1. State Contamination in Memory-Augmented LLM Agents;
+2. ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying;
+3. Defense Effectiveness Across Architectural Layers;
+4. Towards Security-Auditable LLM Agents (Agent-BOM).
+
+The master candidate map uses IDs 83–86, while the manuscript Appendix uses core IDs 68–71. The four mappings are recorded in `data/processed/id_crosswalk.csv` and explained in `docs/ID_CROSSWALK.md`.
+
+## Scope of validation
+
+The script checks record counts, unique identifiers, role totals, publication-status totals, all Yes/Partial/No capability values, role-disaggregated explicit support, non-benchmark values, peer-reviewed-only values, Appendix A coverage, and the four-row identifier crosswalk. It writes the machine-readable output to `analysis/derived_summary.json` and exits with a non-zero code when a required value does not match.
+
+This report does not claim independent second-coder agreement, authenticated database-native hit counts where those exports are unavailable, or redistribution of copyrighted full texts.

@@ -1,0 +1,6 @@
+﻿Capability,Yes,Yes %,Partial,Partial %,No,No %,Primary manuscript wording
+Provenance,7,0.16279069767441862,14,0.32558139534883723,22,0.5116279069767442,7/43 explicitly support provenance or lineage.
+Source attribution,10,0.23255813953488372,28,0.6511627906976745,5,0.11627906976744186,10/43 explicitly support source attribution.
+Causal reconstruction,11,0.2558139534883721,28,0.6511627906976745,4,0.09302325581395349,11/43 explicitly support causal reconstruction.
+Blast-radius support,9,0.20930232558139536,16,0.37209302325581395,18,0.4186046511627907,9/43 explicitly support blast-radius analysis.
+Recovery support,7,0.16279069767441862,12,0.27906976744186046,24,0.5581395348837209,7/43 explicitly support recovery.

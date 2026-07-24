@@ -1,0 +1,4 @@
+﻿Survey,Lifecycle,Memory provenance,Incident reconstruction,Causal confidence,Blast radius,Anti-forensics,Recovery completeness,Score / 7,Coverage %,Interpretation
+"A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",Yes,Partial,No,No,Partial,No,Partial,2.5,0.35714285714285715,Directional coverage only; not a general quality score.
+From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents,Partial,Yes,Partial,Partial,Partial,Partial,Partial,4,0.5714285714285714,Directional coverage only; not a general quality score.
+"Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents",Yes,Yes,No,No,Partial,No,Yes,3.5,0.5,Directional coverage only; not a general quality score.

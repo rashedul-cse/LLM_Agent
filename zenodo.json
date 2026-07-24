@@ -1,0 +1,12 @@
+# Identifier Crosswalk
+
+The cumulative candidate map existed before the manuscript's final four terminology-robustness additions were assigned Appendix identifiers. To preserve both records without silently renumbering the submitted manuscript:
+
+| Master candidate record | Manuscript/core ID | Study |
+|---:|---:|---|
+| 83 | 68 | State Contamination in Memory-Augmented LLM Agents |
+| 84 | 69 | ADAM: A Systematic Data Extraction Attack on Agent Memory via Adaptive Querying |
+| 85 | 70 | Defense Effectiveness Across Architectural Layers: A Mechanistic Evaluation of Persistent Memory Attacks on Stateful LLM Agents |
+| 86 | 71 | Towards Security-Auditable LLM Agents: A Unified Graph Representation |
+
+Use the master record when joining to `data/source/literature_corpus.csv` or `screening_tracker.csv`. Use the manuscript/core ID when joining to `core_studies.csv`, the attack/defence matrices, or Appendix A. The machine-readable mapping is `data/processed/id_crosswalk.csv`.
